@@ -10,7 +10,7 @@ opened and embedded.
 
 Saves and opens HTML format documents.
  
-![Source Code](screenshot-wordprocessor.jpg)
+![](screenshot-wordprocessor.jpg)
 
 > If you think this app is neat and want to learn more about
 PyQt in general, take a look at my [free  tutorials](https://www.youtube.com/channel/UCyoqxMGXPxuvh534hhT_MTw)
