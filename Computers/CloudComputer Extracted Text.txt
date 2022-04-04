@@ -1,0 +1,20 @@
+FILES				CONTENTS
+projects			ShellOS, Vira
+links				https://1drv.ms/u/s!Ag6ZJEd83-sgg-FPODJ43UEx7zc-Gg?e=YTTd2T and https://1drv.ms/u/s!Ag6ZJEd83-sghJJ0YBdFHqFnJH-7qQ?e=a8xmIm
+author				tanmoy_ch@outlook.com and toshan-ch@outlook.com
+web				False
+cloud_computer		True
+user				5612091
+profile				TOSHAN CHOWDHURY
+password			Taken4mu!@
+domain			PythonCloud and Shell OS and GMTRepairToolOS and Python OS
+computer_ID			7812466
+company			WinLow, WinSpire
+
+SENSITIVE DATA		CONTENTS
+data				Banking NO: 1982329
+				Social Security ID: 9012312
+				Sever ID: ui5590mu79-975qw13h69-17gh619969-81533u891q
+				Session ID: 5612091
+				Domain Name: PythonCloud and Shell OS and GMTRepairToolOS and Python OS
+				Company Name: WinLow, WinSpire
